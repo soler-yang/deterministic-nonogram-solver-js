@@ -1,0 +1,14 @@
+{
+  "name": "deterministic-nonogram-solver-js",
+  "version": "1.0.0",
+  "description": "Zero-dependency deterministic line-logic Nonogram & GF(2) Lights Out solver in pure ESM JavaScript.",
+  "type": "module",
+  "main": "./src/index.mjs",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "keywords": ["nonogram", "picross", "lights-out", "gf2", "puzzle-solver", "logic-puzzles"],
+  "homepage": "https://puzzlefern.com/nonogram-solver/",
+  "author": "Rocky Yang (rockyyang)",
+  "license": "MIT"
+}
